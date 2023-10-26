@@ -10,3 +10,7 @@ mkdocs-material = "*"
 
 [requires]
 python_version = "3.11"
+
+[scripts]
+serve = "mkdocs serve"
+publish = "mkdocs build --site-dir public"

@@ -19,3 +19,4 @@ To build the site, run:
 ```
 pipenv run publish
 ```
+The site will be in `<repo root>/docs/public`.

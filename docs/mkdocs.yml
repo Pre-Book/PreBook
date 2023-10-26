@@ -11,6 +11,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.tooltips
   icon:
     repo: fontawesome/brands/github
     logo: octicons/book-16
@@ -52,6 +53,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 plugins:
   - search
+  - social

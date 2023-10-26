@@ -64,5 +64,4 @@ markdown_extensions:
 
 plugins:
   - search
-  - social:
-      cards_layout: default/variant
+  - social

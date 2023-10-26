@@ -12,6 +12,8 @@ theme:
     - search.highlight
     - search.share
     - content.tooltips
+    - content.action.edit
+    - content.action.view
   icon:
     repo: fontawesome/brands/github
     logo: octicons/book-16
@@ -34,6 +36,7 @@ theme:
 
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"
+edit_uri: edit/main/docs/
 
 
 markdown_extensions:
@@ -61,4 +64,5 @@ markdown_extensions:
 
 plugins:
   - search
-  - social
+  - social:
+      cards_layout: default/variant

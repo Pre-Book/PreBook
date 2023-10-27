@@ -45,6 +45,10 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ast3risk-ops
 
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"

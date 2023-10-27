@@ -1,14 +1,15 @@
 ---
 icon: material/trash-can
+title: Removed Features
 description: All features that are removed in PreBook.
 ---
 !!! question "Use another language or edition?"
 
     This list is fully customizable to suit your needs! These are just the defaults. You can customize then in NTLite after loading the preset.
 
-# Removed Features
+# :material-trash-can: Removed Features
 
-## Windows 10
+## :material-microsoft-windows: Windows 10
 
 ### Removed apps
 
@@ -76,17 +77,17 @@ description: All features that are removed in PreBook.
 
 ### ISO image changes
 
-- support directory
+- Support directory
 
 ### Languages
 
-- only enUS
+- Only `en_US`
 
 ### Editions
 
-- only win10 pro
+- Only [:material-microsoft-windows: Windows 10 Pro](https://www.microsoft.com/en-ca/windowsforbusiness/windows-10-pro)
 
-## Windows 11
+## :material-microsoft: Windows 11
 
 ### Removed apps
 
@@ -162,12 +163,12 @@ description: All features that are removed in PreBook.
 
 ### ISO image changes
 
-- support directory
+- Support directory
 
 ### Languages
 
-- only enUS
+- Only `en_US`
 
 ### Editions
 
-- only win11 pro
+- Only [:material-microsoft: Windows 11 Pro](https://www.microsoft.com/en-ca/windows/business/windows-11-pro)

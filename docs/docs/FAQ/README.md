@@ -1,5 +1,6 @@
 ---
 icon: material/head-question
+description: FAQ to answer common questions.
 ---
 # FAQ
 

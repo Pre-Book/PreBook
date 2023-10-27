@@ -90,3 +90,5 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - awesome-pages
+
+copyright: Copyright &copy; 2023 Asterisk & conaN. All content under CC-BY-SA-4.0.

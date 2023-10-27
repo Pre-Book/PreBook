@@ -1,5 +1,7 @@
 ---
 icon: material/home
+description: PreBook is an NTLite preset to create a lightweight base ISO for any modification
+title: Home
 ---
 
 <style>

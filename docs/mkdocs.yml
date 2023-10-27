@@ -49,7 +49,7 @@ theme:
 
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"
-edit_uri: edit/main/docs/
+edit_uri: edit/main/docs/docs/
 
 
 markdown_extensions:

@@ -25,7 +25,7 @@ natsort==8.4.0; python_version >= '3.7'
 packaging==23.2; python_version >= '3.7'
 paginate==0.5.6
 pathspec==0.11.2; python_version >= '3.7'
-pillow==9.5.0
+pillow==10.0.1
 platformdirs==3.11.0; python_version >= '3.7'
 pycparser==2.21
 pygments==2.16.1; python_version >= '3.7'

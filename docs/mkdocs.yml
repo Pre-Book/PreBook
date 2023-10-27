@@ -16,7 +16,7 @@ theme:
     - content.action.view
   icon:
     repo: fontawesome/brands/github
-    logo: octicons/book-16
+    logo: material/book
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16

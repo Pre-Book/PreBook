@@ -37,7 +37,6 @@ theme:
       toggle:
         icon: material/weather-sunny
 
-
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -50,7 +49,7 @@ theme:
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"
 edit_uri: edit/main/docs/docs/
-
+site_url: https://prebook.pages.dev
 
 markdown_extensions:
   - abbr

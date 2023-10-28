@@ -11,7 +11,7 @@ description: How to use PreBook.
 
 ## :material-book-cog: Choose a playbook
 
-[:atlas-atlas: AtlasOS](faq.md){ .md-button }
+[:atlas-atlas: AtlasOS](../info/faq.md){ .md-button }
 
 
 

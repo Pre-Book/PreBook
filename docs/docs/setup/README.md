@@ -3,11 +3,13 @@ icon: material/hammer-wrench
 description: How to use PreBook.
 ---
 
-# Choose a playbook
+# :material-hammer-wrench: Setup
 
 !!! danger "This section is not finished!"
 
     Please wait until we finish building it.
+
+## :material-book-cog: Choose a playbook
 
 [:atlas-atlas: AtlasOS](faq.md){ .md-button }
 

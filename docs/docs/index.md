@@ -30,14 +30,14 @@ title: Home
     Proceed at your own risk.
 
 
-## Authors:
+## Authors
 
 - [Asterisk](https://asterisk.shinken.studio) \- Documentation & Repository
 - [conaN](https://discord.com/users/779674532481990656) \- Presets & Registry Tweaks
-<!--
-## Contributors:
+
+## Contributors
 
 <a href="https://github.com/ast3risk-ops/prebook/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ast3risk-ops/prebook" />
 </a>
--->
+

@@ -52,6 +52,16 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+nav:
+  - Home:
+      - Home: index.md
+  - FAQ:
+      - FAQ: faq/README.md
+      - Removed Features: faq/features.md
+  - Setup:
+      - Setup: setup/README.md
+
+
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"
 edit_uri: edit/main/docs/docs/

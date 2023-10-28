@@ -1,5 +1,5 @@
 ---
-icon: material/account-search
+icon: material/information
 title: FAQ
 description: FAQ to answer common questions.
 ---

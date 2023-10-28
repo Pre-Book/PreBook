@@ -11,7 +11,7 @@ description: How to use PreBook.
 
 ## :material-book-cog: Choose a playbook
 
-[:atlas-atlas: AtlasOS](../info/faq.md){ .md-button } [:revi-revi: ReviOS](../info/faq.md){ .md-button } [:material-microsoft-windows:{ .windows } None (stock)](../info/faq.md){ .md-button }
+[:atlas-atlas: AtlasOS](../faq/README.md){ .md-button } [:revi-revi: ReviOS](../faq/README.md){ .md-button } [:material-microsoft-windows:{ .windows } None (stock)](../faq/README.md){ .md-button }
 
 
 

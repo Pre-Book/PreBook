@@ -1,7 +1,7 @@
 ---
 icon: material/information
 title: Info
-description: General information.
+description: General information and FAQ.
 ---
 # :material-information: Info
 

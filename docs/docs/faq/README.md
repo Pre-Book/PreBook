@@ -1,9 +1,9 @@
 ---
-icon: material/information
+icon: material/information-outline
 title: FAQ
 description: FAQ to answer common questions.
 ---
-# :material-account-search: FAQ
+# :material-information-outline: FAQ
 
 !!! warning "This is still unfinished!"
 

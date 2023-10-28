@@ -49,6 +49,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ast3risk-ops
+extra_css:
+  - stylesheets/extra.css
 
 repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"

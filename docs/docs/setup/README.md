@@ -11,11 +11,13 @@ description: How to use PreBook.
 
 ## :material-book-cog: Choose a playbook
 
-[:atlas-atlas: AtlasOS](../info/faq.md){ .md-button }
+[:atlas-atlas: AtlasOS](../info/faq.md){ .md-button } [:revi-revi: ReviOS](../info/faq.md){ .md-button }
 
 
 
 -----
 
 
-*AtlasOS branding &copy; [Jack Holmes](https://jackholmes.zip) & [AtlasOS](https://atlasos.net) 2023.*
+*AtlasOS branding copyright &copy; [Jack Holmes](https://jackholmes.zip) & [AtlasOS](https://atlasos.net) 2023.*  
+
+*ReviOS branding copyright &copy; [Revision](https://revi.cc) 2019 - 2023.* 

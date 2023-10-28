@@ -8,3 +8,5 @@ description: How to use PreBook.
 !!! danger "This section is not finished!"
 
     Please wait until we finish building it.
+
+[:atlas-atlas: AtlasOS](faq.md){ .md-button }

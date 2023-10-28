@@ -81,11 +81,11 @@ description: All features that are removed in PreBook.
 
 ### Languages
 
-- Only `en_US`
+- Only `en_US` by default
 
 ### Editions
 
-- Only [:material-microsoft-windows: Windows 10 Pro](https://www.microsoft.com/en-ca/windowsforbusiness/windows-10-pro)
+- Only [:material-microsoft-windows: Windows 10 Pro](https://www.microsoft.com/en-ca/windowsforbusiness/windows-10-pro) by default
 
 ## :material-microsoft: Windows 11
 
@@ -167,8 +167,8 @@ description: All features that are removed in PreBook.
 
 ### Languages
 
-- Only `en_US`
+- Only `en_US` by default
 
 ### Editions
 
-- Only [:material-microsoft: Windows 11 Pro](https://www.microsoft.com/en-ca/windows/business/windows-11-pro)
+- Only [:material-microsoft: Windows 11 Pro](https://www.microsoft.com/en-ca/windows/business/windows-11-pro) by default

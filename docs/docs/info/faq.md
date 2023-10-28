@@ -9,7 +9,7 @@ description: FAQ to answer common questions.
 
     We'll add more questions soon.
 
-## :octicons-question-24: Questions
+## :octicons-question-24: Quick Questions
 
 ??? question "What is this?"
    
@@ -23,6 +23,9 @@ description: FAQ to answer common questions.
 ??? question "Where can I get it?"
 
     You can download the latest builds from [GitHub Releases](https://github.com/Ast3risk-ops/PreBook/releases/latest).
+??? question "Who made this?"
+
+    [Asterisk](https://asterisk.shinken.studio "Asterisk's website") and [conaN](https://discord.com/users/779674532481990656 "conaN's Discord Profile").
 
 ## :material-book-outline: Origins
 

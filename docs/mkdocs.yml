@@ -54,7 +54,6 @@ repo_url: https://github.com/Ast3risk-ops/PreBook
 repo_name: "Ast3risk-ops/PreBook"
 edit_uri: edit/main/docs/docs/
 site_url: https://prebook.pages.dev
-
 markdown_extensions:
   - abbr
   - admonition
@@ -72,12 +71,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-
 plugins:
   - search
   - social

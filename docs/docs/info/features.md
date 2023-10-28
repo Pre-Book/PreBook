@@ -3,11 +3,13 @@ icon: material/trash-can
 title: Removed Features
 description: All features that are removed in PreBook.
 ---
+
+# :material-trash-can: Removed Features
+
 !!! question "Use another language or edition?"
 
     This list is fully customizable to suit your needs! These are just the defaults. You can customize then in NTLite after loading the preset.
 
-# :material-trash-can: Removed Features
 
 ## :material-microsoft-windows: Windows 10
 

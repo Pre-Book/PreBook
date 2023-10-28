@@ -1,6 +1,4 @@
 Windows Registry Editor Version 5.00
 
-; disable uac
-
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
 "EnableLUA"="0"
